@@ -1,1 +1,0 @@
-# Live2d-for-web
