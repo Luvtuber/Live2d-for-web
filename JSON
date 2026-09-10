@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "rm -rf app && unzip -q live2d-web-tracker-v3.zip -d app && cd app/live2d-web-tracker-v3 && npm install && npm run build"
+  }
+}    
